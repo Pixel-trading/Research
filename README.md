@@ -6,6 +6,11 @@
 
 ## Pixel trading concept 
 
+  A self maintainable trading platform that feeding from Ad-exchange and facilitate to investors to for website ad-blocks aunder the atomic pixel level and design new vertual market based on this mechanisum. 
+  
+  
+  
+
 ## Pixel trading abstract view 
 
 ## prixel trading architecture 
