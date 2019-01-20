@@ -12,6 +12,14 @@
   
 ## Pixel trading Market design 
 
+### Modern online advertising market architecture 
+
+![alt text](https://github.com/Pixel-trading/Research/blob/master/Ad-exchange.png)
+
+The communication between DSP and SSP will be looks like as follow. 
+
+OpenRTB standard protocol related to the RTB : https://www.iab.com/wp-content/uploads/2016/03/OpenRTB-API-Specification-Version-2-5-FINAL.pdf
+
 ### Pixel trading abstract view 
 
 ### prixel trading architecture 
