@@ -14,7 +14,7 @@
 
 ### Modern online advertising market architecture 
 
-![alt text](https://github.com/Pixel-trading/Research/blob/master/Ad-exchange.png)
+![alt text](https://github.com/Pixel-trading/Research/blob/master/images/Ad-exchange.png)
 
 The communication between DSP and SSP will be looks like as follow. 
 
