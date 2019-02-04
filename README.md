@@ -8,7 +8,7 @@
 
   A self maintainable trading platform that feeding from Ad-exchange and facilitate to investors to for website ad-blocks aunder the atomic pixel level and design new vertual market based on this mechanisum. 
   
-## [Literature review](https://github.com/Pixel-trading/Research/bloob/master/literature_review)
+## [Literature review](https://github.com/Pixel-trading/Research/tree/master/literature_review)
   
 ## Pixel trading Market design 
 
